@@ -29,7 +29,4 @@ view: tiempos_iri {
     type: string
     sql: ${TABLE}.unidad ;;
   }
-  measure: count {
-    type: count
-  }
 }
