@@ -11,5 +11,3 @@ datagroup: tiempos_iri_anget_model_default_datagroup {
 persist_with: tiempos_iri_anget_model_default_datagroup
 
 explore: tiempos_iri{}
-
-explore:  ingresos_salidas_iri{}
